@@ -1,0 +1,24 @@
+{
+  "name": "nocss-cli",
+  "version": "0.0.1",
+  "description": "Command-line interface of nocss-lint",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test"
+  },
+  "bin": {
+    "nocss-cli": "bin/nocss-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/morishitter/nocss-cli/git"
+  },
+  "keywords": ["css","nocss"],
+  "author": "Masaaki Morishita",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "*",
+    "tape": "*"
+  }
+}
