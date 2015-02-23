@@ -13,12 +13,19 @@
     "type": "git",
     "url": "git://github.com/morishitter/nocss-cli/git"
   },
-  "keywords": ["css","nocss"],
+  "keywords": [
+    "css",
+    "nocss"
+  ],
   "author": "Masaaki Morishita",
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "minimist": "^1.1.0",
+    "nocss-lint": "0.0.1",
+    "postcss": "^4.0.4"
+  },
   "devDependencies": {
     "tap": "*",
-    "tape": "*"
+    "tape": "^3.5.0"
   }
 }

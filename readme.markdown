@@ -1,4 +1,4 @@
-# nocss-cli [![Build Status](https://travis-ci.org/morishitter/nocss-cli.svg)](https://travis-ci.org/morishitter/nocss-cli)
+# nocss-cli
 
 Command-line interface of nocss-lint
 
@@ -7,8 +7,6 @@ Command-line interface of nocss-lint
 ```shell
 $ npm install nocss-cli
 ```
-
-## Example
 
 ## License
 
